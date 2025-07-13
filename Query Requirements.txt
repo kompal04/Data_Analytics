@@ -1,0 +1,17 @@
+KPI Requirements
+
+1. Total Sales
+2. Average Revenue per Sale
+3. Number of Items
+4. Average Customer Rating for items sold
+
+
+Granular Requirements
+
+1. Total Sales by Fat Content - Assess how other KPIs vary with fat content
+2. Total Sales by Item Type 
+3. Fat Content by Outlet for Total Sales - Compare total sales across diff outlets segmented by fat content
+4. Total Sales by Outlet Establishment - how age or type of outlet establishment influences total sales
+5. Percentage of Sales by Outlet Size
+6. Sales by Outlet Location
+7. All metrics by outlet types
